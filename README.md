@@ -1,2 +1,2 @@
-# Nextjs-Tailwind-Template
-A template repo for nextjs, tailwind and shadcn
+# Perfomance: Understandin React useMemo and useCallback hooks 
+Practical, Real world example use-cases for the React useMemo and useCallback hooks
